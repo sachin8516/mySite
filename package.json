@@ -7,7 +7,7 @@
     "start": "webpack-dev-server --config=config/webpack.dev.js",
     "build": "webpack --config=config/webpack.dev.js",
     "dev": "nodemon --watch config --watch src/server src/server/main.js",
-    "deploy": "gh-pages -d dist"
+    "deploy": "npm run build && echo 'sachin8516.com' >> ./dist/CNAME && gh-pages -d dist"
   },
   "repository": {
     "type": "git",
