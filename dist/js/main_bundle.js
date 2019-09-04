@@ -64,7 +64,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "2f341b939ac7e00c41aa";
+/******/ 	var hotCurrentHash = "2c689b0e2eee9e7b2d18";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -1116,7 +1116,7 @@ eval("module.exports = __webpack_require__.p + \"images/unicorn-b7ee4f2f.jpg\";\
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("module.exports = \"<!doctype html>\\n<html lang=\\\"en\\\">\\n<head>\\n    <meta charset=\\\"UTF-8\\\">\\n    <meta name=\\\"viewport\\\" content=\\\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\\\">\\n    <meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"ie=edge\\\">\\n    <title>My App</title>\\n</head>\\n<body>\\n    <div class=\\\"profile\\\">\\n        <img src=\\\"\" + __webpack_require__(/*! ./images/unicorn.jpg */ \"./src/images/unicorn.jpg\") + \"\\\" alt=\\\"\\\">\\n        <h1>My First App</h1>\\n    </div>\\n    <div class=\\\"test\\\">\\n        asdf\\n    </div>\\n</body>\\n</html>\";\n\n//# sourceURL=webpack:///./src/index.html?");
+eval("module.exports = \"<!doctype html>\\n<html lang=\\\"en\\\">\\n<head>\\n    <meta charset=\\\"UTF-8\\\">\\n    <meta name=\\\"viewport\\\" content=\\\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\\\">\\n    <meta http-equiv=\\\"X-UA-Compatible\\\" content=\\\"ie=edge\\\">\\n    <title>My App</title>\\n</head>\\n<body>\\n    <div class=\\\"profile\\\">\\n        <img src=\\\"\" + __webpack_require__(/*! ./images/unicorn.jpg */ \"./src/images/unicorn.jpg\") + \"\\\" alt=\\\"\\\">\\n        <h1>My Portfolio Coming</h1>\\n    </div>\\n    <div class=\\\"test\\\">\\n        asdf\\n    </div>\\n</body>\\n</html>\";\n\n//# sourceURL=webpack:///./src/index.html?");
 
 /***/ }),
 
